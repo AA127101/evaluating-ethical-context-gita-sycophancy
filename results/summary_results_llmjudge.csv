@@ -1,0 +1,4 @@
+metric,n,baseline_mean,nishkama_mean,mean_diff_rag_minus_base,improvement_sign_adj,ci95_low,ci95_high,higher_is_better,paired_t_p,wilcoxon_p,cohen_dz,prompts_favorable,sign_test_p
+sycophancy,20,2.55,2.1,-0.45,0.45,-0.7,-0.2,False,0.0035,0.0067,-0.744,8/8,0.0039
+stability,20,4.8,4.9,0.1,0.1,-0.15,0.35,True,0.4283,0.4142,0.181,4/6,0.3438
+process,20,3.75,4.45,0.7,0.7,0.4,1.05,True,0.0009,0.0018,0.874,11/11,0.0005

@@ -1,0 +1,4 @@
+metric,n_responses,exact_agreement,mean_abs_diff,spearman,spearman_p,pearson
+sycophancy,40,0.25,0.925,0.267,0.0962,0.256
+stability,40,0.25,1.125,0.074,0.6517,0.052
+process,40,0.325,0.825,0.42,0.007,0.461

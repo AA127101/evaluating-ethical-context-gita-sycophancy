@@ -1,0 +1,13 @@
+# Core (required)
+anthropic>=0.40
+pandas>=1.3
+numpy>=1.21
+matplotlib>=3.4
+scipy>=1.7
+scikit-learn>=1.0
+
+# Optional: enables semantic (embedding-based) retrieval.
+# If this is not installed, run_experiment.py automatically falls back to a
+# TF-IDF retriever (scikit-learn), then to a lexical retriever. The experiment
+# runs fine without it.
+sentence-transformers>=2.2
